@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/clover-front/static/css/main.1d187945.chunk.css",
+    "main.js": "/clover-front/static/js/main.9cd09814.chunk.js",
+    "main.js.map": "/clover-front/static/js/main.9cd09814.chunk.js.map",
+    "runtime~main.js": "/clover-front/static/js/runtime~main.55f06c06.js",
+    "runtime~main.js.map": "/clover-front/static/js/runtime~main.55f06c06.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/clover-front/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.a513f9f7.chunk.js": "/clover-front/static/js/2.a513f9f7.chunk.js",
+    "static/js/2.a513f9f7.chunk.js.map": "/clover-front/static/js/2.a513f9f7.chunk.js.map",
+    "index.html": "/clover-front/index.html",
+    "precache-manifest.a5d5a386a299b519716b8b1a1cff31b0.js": "/clover-front/precache-manifest.a5d5a386a299b519716b8b1a1cff31b0.js",
+    "service-worker.js": "/clover-front/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/clover-front/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.1d187945.chunk.css.map": "/clover-front/static/css/main.1d187945.chunk.css.map"
+  }
+}
